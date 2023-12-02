@@ -1,6 +1,10 @@
 
 # Experiment--09-Implementation-of Shift-registers-using-verilog-
 ### AIM: To implement PISO , PIPO,PISO  using verilog and validating their functionality using their functional tables
+### Developed by:
+J.Nandakesore
+### Register Number:
+23009689
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
@@ -41,39 +45,58 @@ FIGURE-04
 A Parallel in Parallel out (PIPO) shift register is used as a temporary storage device and like SISO Shift register it acts as a delay element.
 
 ### Procedure
-/* write all the steps invloved */
+1.Use quartus software and import required modules.
 
+2.Assign inputs and outputs for shift registers.
 
+3.Assign logic for input to give output at positive edge.
+
+4.Perform opertaions and produce rtl circuit.
+
+5.end module
 
 ### PROGRAM 
-/*
-Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: 
-RegisterNumber:  
-*/
 
+## Program 1:
 
+![image](https://github.com/Nandakesore0210/Exercise-09-Shift-registers-using-verilog-/assets/149365088/8a4d8f87-cbba-49b3-ac01-2268c3072a3c)
 
+## Program 2:
 
+![image](https://github.com/Nandakesore0210/Exercise-09-Shift-registers-using-verilog-/assets/149365088/41807161-90a7-4bf9-b82f-e087d56ca714)
 
+## Program 3:
+
+![image](https://github.com/Nandakesore0210/Exercise-09-Shift-registers-using-verilog-/assets/149365088/f7986d35-5b5b-4db7-a636-0a2f0215889d)
 
 ### RTL LOGIC  REGISTERS   
 
+## Program 1:
 
+![image](https://github.com/Nandakesore0210/Exercise-09-Shift-registers-using-verilog-/assets/149365088/0c729bc6-56b2-4c2a-8af2-e988c3c5be6f)
 
+## Program 2;
 
+![image](https://github.com/Nandakesore0210/Exercise-09-Shift-registers-using-verilog-/assets/149365088/eb00dc2a-1b4b-41c3-97d0-416ccd370ca3)
 
+## Program 3:
 
-
-
+![image](https://github.com/Nandakesore0210/Exercise-09-Shift-registers-using-verilog-/assets/149365088/f2ca61ce-ad44-47ca-9e08-7e85f5e6a82f)
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
 
+## Program 1:
 
+![image](https://github.com/Nandakesore0210/Exercise-09-Shift-registers-using-verilog-/assets/149365088/a8badffa-6af0-4d3d-8f3e-0ff799fc0f1c)
 
+## Program 2:
 
+![image](https://github.com/Nandakesore0210/Exercise-09-Shift-registers-using-verilog-/assets/149365088/20f0aa3f-d660-4eda-9264-27bc2503f831)
 
+## Program 3:
 
+![image](https://github.com/Nandakesore0210/Exercise-09-Shift-registers-using-verilog-/assets/149365088/6a8a93ac-e924-4d0f-8218-7435410a5d82)
 
+### RESULTS:
 
-### RESULTS 
+THUS THE PROGRAM TO IMPLEMENT SHIFT REGISTERS IS DONE SUCCESSFUL.
